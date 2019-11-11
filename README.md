@@ -1,0 +1,2 @@
+MyClassをDataGridのItemsSourceにBindingして内容の変化をキャッチするサンプルプログラムです。
+サンプルプログラムはPrism＋ReactivePropertyの構成となっています。
